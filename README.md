@@ -1,0 +1,1 @@
+create this project based on https://go.dev/doc/tutorial/getting-started
